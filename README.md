@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeeva21BCS036
+- 👋 Hi, I’m @Jeeva k
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning OOPS in java
 
